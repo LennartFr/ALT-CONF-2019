@@ -1,6 +1,6 @@
 # ALT-CONF-2019
 
-(WATSON_ML.png)
+[Watson ML.png](WATSON_ML.png)
 
 # Watson ML App.   https://developer.ibm.com/patterns/build-an-ios-game-powered-by-core-ml-and-watson-visual-recognition/
 
