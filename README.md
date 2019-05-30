@@ -11,12 +11,17 @@ https://developer.ibm.com/patterns/build-an-ios-game-powered-by-core-ml-and-wats
 
 https://developer.apple.com/documentation/coreml/getting_a_core_ml_model
 
-Kitura.  https://cloud.ibm.com/catalog/starters/runtime-for-swift
+## Create a real-time object detection app using Watson Machine Learning
 
-[Build an Augmented Reality avatar for the iPhone- Live Tech Talk](https://developer.ibm.com/videos/build-an-ar-avatar-for-the-iphone-live-tech-talk/)
 
 ## Building a FoodTracker Backend with Kitura
 
 https://github.com/IBM/FoodTrackerBackend
 
 This tutorial teaches how to create a Kitura Swift backend for the FoodTracker iOS app tutorial from Apple. This project contains a version of the tutorial code that has been updated to use Codable rather than NSCoder.
+
+Kitura.  https://cloud.ibm.com/catalog/starters/runtime-for-swift
+
+[Build an Augmented Reality avatar for the iPhone- Live Tech Talk](https://developer.ibm.com/videos/build-an-ar-avatar-for-the-iphone-live-tech-talk/)
+
+https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/
