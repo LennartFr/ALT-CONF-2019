@@ -11,7 +11,8 @@ https://developer.ibm.com/patterns/build-an-ios-game-powered-by-core-ml-and-wats
 
 https://developer.apple.com/documentation/coreml/getting_a_core_ml_model
 
-## Create a real-time object detection app using Watson Machine Learning
+## <a href="Create a real-time object detection app using Watson Machine Learning
+Train your own custom model without substantive computing power and time">Create a real-time object detection app using Watson Machine Learning</a>
 
 
 <img src="Tensorflow.png">
