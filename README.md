@@ -15,12 +15,11 @@ https://developer.apple.com/documentation/coreml/getting_a_core_ml_model
 
 Train your own custom model without substantive computing power and time.Create a real-time object detection app using Watson Machine Learning
 
-
 <img src="Tensorflow.png">
 
 
 
-## Building a FoodTracker Backend with Kitura
+## <a href="https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/">Building a FoodTracker Backend with Kitura</a>
 
 https://github.com/IBM/FoodTrackerBackend
 
