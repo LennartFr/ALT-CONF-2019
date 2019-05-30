@@ -1,6 +1,6 @@
 # ALT-CONF-2019
 
-https://github.com/LennartFr/ALT-CONF-2019/blob/master/Watson_ML.png
+ALT-CONF-2019/Watson_ML.png
 
 # Watson ML App.   https://developer.ibm.com/patterns/build-an-ios-game-powered-by-core-ml-and-watson-visual-recognition/
 
