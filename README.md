@@ -17,6 +17,10 @@ Competition ends on July 29, 2019
 Use Watson Visual Recognition and Core ML to create a Kitura-based iOS game 
 that has a  user search for a predetermined list of objects
 
+
+## <hr height ="20" width = "800" color = "black">
+
+
 https://developer.apple.com/documentation/coreml/getting_a_core_ml_model
 
 ## <a href="https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/">Create a real-time object detection app using Watson Machine Learning</a>
