@@ -1,7 +1,4 @@
-# ALT-CONF-2019
-
-##  <a href="https://callforcode.org/challenge/">Call for Code 2019</a>
-
+0
 BUILD THE BEST TECHNOLOGY SOLUTION TO IMPROVE NATURAL DISASTER PREPAREDNESS, RESPONSE, AND RECOVERY
 Competition ends on July 29, 2019
 
@@ -9,7 +6,7 @@ Competition ends on July 29, 2019
 
 ## <a href="https://www.ibm.com/cloud/swift">Cloud Native Development with Swift</a>
 
-## <hr width = "20">
+## <hr height ="20" width = "200">
 
 ## <a href="https://developer.ibm.com/patterns/build-an-ios-game-powered-by-core-ml-and-watson-visual-recognition/">Build an iOS game powered by Core ML and Watson Visual Recognition</a>
 
