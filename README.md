@@ -23,6 +23,7 @@ Train your own custom model without substantive computing power and time.Create 
 
 <img src="Tensorflow.png">
 
+## <hr height ="20" width = "800" color = "black">
 
 
 ## <a href="https://developer.ibm.com/patterns/create-a-real-time-object-detection-app-using-watson-machine-learning/">Building a FoodTracker Backend with Kitura</a>
