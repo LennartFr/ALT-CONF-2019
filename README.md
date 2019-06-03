@@ -1,6 +1,6 @@
 # ALT-CONF-2019
 
-##  <a href="https://callforcode.org/challenge/">Call for Code 2019/a>
+##  <a href="https://callforcode.org/challenge/">Call for Code 2019</a>
 
 BUILD THE BEST TECHNOLOGY SOLUTION TO IMPROVE NATURAL DISASTER PREPAREDNESS, RESPONSE, AND RECOVERY
 Competition ends on July 29, 2019
