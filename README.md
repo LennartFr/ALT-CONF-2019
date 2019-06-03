@@ -6,7 +6,7 @@ Competition ends on July 29, 2019
 
 ## <a href="https://www.ibm.com/cloud/swift">Cloud Native Development with Swift</a>
 
-## <hr height ="20" width = "2000">
+## <hr height ="20" width = "1000">
 
 ## <a href="https://developer.ibm.com/patterns/build-an-ios-game-powered-by-core-ml-and-watson-visual-recognition/">Build an iOS game powered by Core ML and Watson Visual Recognition</a>
 
